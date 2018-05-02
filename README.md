@@ -4,4 +4,4 @@ You can enter in the Discord of the server in this link --> https://discord.gg/p
 
 To enter in the server you just need to put the file .exe in the NosTale folder
 
-The rules of the server are in the discord
+To download the file from the server, just click on clone or download and download ZIP
