@@ -13,8 +13,11 @@ To download the file from the server, just click on clone or download and downlo
 --------------------------------------------------------------------------------------------
 
 To enter in the BETA server:
+
 You need to install Hamachi --> https://www.vpn.net/
+
 And enter in this net:
+
 ID of the net: NosDemoon1
 PW of the net: 12345p
 
