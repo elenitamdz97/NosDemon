@@ -16,7 +16,7 @@ To enter in the BETA server:
 
 You need to install Hamachi --> https://www.vpn.net/
 
-And enter in this net:
+And enter in the server net:
 
 ID of the net: NosDemoon1
 
