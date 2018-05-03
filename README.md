@@ -12,7 +12,7 @@ To download the file from the server, just click on clone or download and downlo
 
 --------------------------------------------------------------------------------------------
 
-To enter in the BETA server:
+# NosDemonBETA :
 
 You need to install Hamachi --> https://www.vpn.net/
 
